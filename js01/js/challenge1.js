@@ -1,4 +1,4 @@
-// Write a code that return a random letter from tour name;
+// Write a code that return a random letter from your name;
 
 const myName = "Vincent";
 console.log(myName.length);
